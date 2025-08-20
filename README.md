@@ -6,15 +6,19 @@ Welcome to my GitHub profile! I’m passionate about driving innovation, deliver
 
 ## 🚀 About Me
 
+- 🎓 **Fourth-year Computer Science Student** at Trent University
 - 🧠 **Roles:**  
-  **Innovation & Technical Support Specialist**  
+  **Innovation & Technical Support Specialist @ Duntroon Highlands**  
   <br>
   **Job Description:**  
   &nbsp;· Providing technical support for Lightspeed and associated payment systems  
   &nbsp;· Designing and implementing digital solutions to increase golf course operational efficiencies  
   <br>
   **Software Developer @ Duntroon Highlands**
-- 💡 **Focus:** Bridging the gap between creative problem solving and technical excellence.
+- 💡 **Focus:**  
+  - Delivering reliable, maintainable, and scalable software solutions.
+  - Applying practical problem-solving and engineering principles to real-world challenges.
+
 - 🛠️ **Tech Stack:** JavaScript, React, AWS Services, Git, SQL, PostgreSQL, Project Planning & Management, C#
 
 ---
@@ -23,14 +27,7 @@ Welcome to my GitHub profile! I’m passionate about driving innovation, deliver
 
 | Name        | Description                                                              | Tech Stack                    |
 |-------------|--------------------------------------------------------------------------|-------------------------------|
-| [CommsApp](https://github.com/mason5513/CommsApp) | A communication platform designed for seamless team collaboration and real-time messaging. | React, JavaScript, AWS, SQL |
-
----
-
-## 📈 GitHub Stats
-
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=mason5513&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason5513&layout=compact&theme=github_dark)
+| [CommsApp](https://github.com/mason5513/CommsApp) | A communication platform designed for seamless team collaboration and real-time messaging. Utilizes PostgreSQL on AWS RDS for robust data management. | React, JavaScript, AWS, PostgreSQL (RDS) |
 
 ---
 
