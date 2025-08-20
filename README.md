@@ -64,7 +64,54 @@ Welcome to my GitHub profile! I’m passionate about driving innovation, deliver
 
 | Name        | Description                                                              | Tech Stack                    |
 |-------------|--------------------------------------------------------------------------|-------------------------------|
-| [CommsApp](https://github.com/mason5513/CommsApp) | A communication platform designed for seamless team collaboration and real-time messaging. Utilizes PostgreSQL on AWS RDS for robust data management. | React, JavaScript, AWS, PostgreSQL (RDS) |
+| [CommsApp](https://github.com/mason5513/CommsApp) | A cloud-native platform for team collaboration, real-time messaging, and operations management. Built with a React frontend and Node.js/Express backend, CommsApp uses AWS infrastructure and PostgreSQL (RDS) to deliver secure and scalable business solutions. | React, JavaScript, AWS, PostgreSQL (RDS) |
+
+---
+
+### 🏗️ CommsApp Technical Overview
+
+**CommsApp** is an internal communication and operations platform I designed and built, focused on supporting teams and streamlining workflows. Here’s an in-depth breakdown of its technical structure and main features:
+
+#### Technical Architecture
+
+- **Frontend:**  
+  Built with React (`create-react-app`), providing a modular and responsive user interface. The app supports real-time updates, route-based navigation, and offers components for dashboards, forms, and communication panels.
+
+- **Backend:**  
+  Powered by Node.js and Express. The server handles API requests, authentication, authorization, and connects securely to PostgreSQL on AWS RDS for data storage. It also manages business logic and serves static files.
+
+- **Database:**  
+  PostgreSQL hosted on AWS RDS is used for organizing, storing, and managing all application data—user information, communication records, lost/found items, and notes. The database design supports advanced queries, efficient search, status tracking, and historical archiving.
+
+- **Deployment:**  
+  - **Frontend:** AWS Amplify  
+  - **Backend:** AWS EC2  
+  - **Database:** AWS RDS (PostgreSQL)  
+  - **Domain:** AWS Route 53
+
+#### Main Features
+
+- **Internal Communication:**  
+  Real-time messaging between departments with dedicated channels, making it easier to coordinate and share information securely.
+
+- **Lost and Found Management:**  
+  Digital forms for registering and searching lost/found items, status tracking for each item, and tools for contacting owners. Everything is searchable and filterable.
+
+- **Notes & Announcements:**  
+  Centralized hub for notes and announcements, with department targeting, importance flagging, filtering, and historical archiving.
+
+- **Scheduling Tools:**  
+  Departmental and cafe-specific scheduling modules, including printable views and history tracking.
+
+#### Business Impact
+
+- Reduces time spent on internal communications and helps centralize important information.
+- Improves customer service through faster lost item resolution.
+- Provides staff with easy access to critical announcements and reduces communication friction.
+
+#### Expansion & Roadmap
+
+- Planned features include shift management, inventory alerts, feedback collection, event coordination, analytics dashboard, push notifications, offline support, a mobile app, and deeper integration with management systems.
 
 ---
 
