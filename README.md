@@ -116,7 +116,7 @@ Welcome to my GitHub profile! I’m passionate about driving innovation, deliver
 ---
 
 ## 💬 Get in Touch
-
+- Email: mason.parker@outlook.com
 _Social links coming soon!_
 
 ---
